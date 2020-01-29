@@ -7,4 +7,4 @@ We can also shoot by pressing Spacebar.
 If any enemy can reach a certain red line then the game will be over.
 
 For more details please visit:
-https://dsasanengineer.blogspot.com/
+https://dsasanengineer.blogspot.com/2020/01/making-space-ship-game-by-pygame.html
