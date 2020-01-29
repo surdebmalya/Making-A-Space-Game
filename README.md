@@ -8,5 +8,3 @@ If any enemy can reach a certain red line then the game will be over.
 
 For more details please visit:
 https://dsasanengineer.blogspot.com/
-or
-youtube
