@@ -8,3 +8,5 @@ If any enemy can reach a certain red line then the game will be over.
 
 For more details please visit:
 https://dsasanengineer.blogspot.com/2020/01/making-space-ship-game-by-pygame.html
+or
+https://youtu.be/TJzyrIq3F6w
