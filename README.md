@@ -6,7 +6,7 @@ Our space ship can only moves right and left by pressing the arrow keys or D or 
 We can also shoot by pressing Spacebar.
 If any enemy can reach a certain red line then the game will be over.
 ## See the game in action:
-[![Watch the video](https://img.youtube.com/vi/sH9s29FHY1Y/0.jpg)](https://youtu.be/sH9s29FHY1Y)
+[![Watch the video](http://i3.ytimg.com/vi/sH9s29FHY1Y/maxresdefault.jpg)](https://youtu.be/sH9s29FHY1Y)
 ## Game Mechanisms & Building Idea:
 - The game is a basic implementation of one of the best modules that is used for python game development, i.e. pygame module. 
 - In pygame every objects is been defined first and then it has been placed on the suitable position of the screen. 
