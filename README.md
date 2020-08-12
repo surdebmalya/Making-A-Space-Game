@@ -20,7 +20,6 @@ If any enemy can reach a certain red line then the game will be over.
 ## What to do when the enemy hits the boundaries of the game screen:
 - Again, it's dependent upon you. Here, I have structured the game as a manner such that, when a enemy will hit the game boundaries, they will come down for a certain distance and it will start moving to the opposite direction of previous, until it is hhit by a bullet or if it can reaches to the red line then the game will end.
 ## How to download the game:
-- Visit https://dsasanengineer.blogspot.com/2020/04/download-simple-space-game-made-by-me.html, and download the game!!!
-
-For more details please visit:
-https://dsasanengineer.blogspot.com/2020/01/making-space-ship-game-by-pygame.html
+Visit [Here](https://dsasanengineer.blogspot.com/2020/04/download-simple-space-game-made-by-me.html), and download the game!!!
+## For more details:
+[Click Here](https://dsasanengineer.blogspot.com/2020/01/making-space-ship-game-by-pygame.html)!
