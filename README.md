@@ -19,7 +19,5 @@ If any enemy can reach a certain red line then the game will be over.
 - It's the simple answer, they will move until they will hit by a bullet. So, here comes the main thing, **Collision**. So you have to define the collision function seperately, by which in every fps the game loop will check for the return value of the collision function. If it is True, i.e. collision happens, so you have to destroy the current enemy by which the collision has just happended and also you have to generate a new enemy.
 ## What to do when the enemy hits the boundaries of the game screen:
 - Again, it's dependent upon you. Here, I have structured the game as a manner such that, when a enemy will hit the game boundaries, they will come down for a certain distance and it will start moving to the opposite direction of previous, until it is hhit by a bullet or if it can reaches to the red line then the game will end.
-## How to download the game:
-Visit [Here](https://dsasanengineer.blogspot.com/2020/04/download-simple-space-game-made-by-me.html), and download the game!!!
 ## For more details:
-[Click Here](https://dsasanengineer.blogspot.com/2020/01/making-space-ship-game-by-pygame.html)!
+[Click Here](https://surdebmalya.hashnode.dev/making-a-basic-space-ship-game)!
